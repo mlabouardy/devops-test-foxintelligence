@@ -12,8 +12,8 @@ The technical test to apply for a *DevOps Engineer* role at *Foxintelligence* ht
 
 ### Environment variables
 
-| Varibale                              | Description             | Default                            |
-| :------------------------------------ | :---------------        | :--------------------------------- | :-----------: |
+| Variable                              | Description             | Default                            |
+| ------------------------------------ | ---------------        | --------------------------------- |
 | AWS_ACCESS_KEY_ID                     | Ask recruiter for AWS credentials (IAM role or .aws/credentials file can be used instead) | |
 | AWS_ACCESS_SECRET_KEY | Ask recruiter for AWS credentials (IAM role or .aws/credentials file can be used instead) | |
 | AWS_REGION | AWS region | eu-central-1 |
@@ -33,7 +33,7 @@ go run main.go
 ### Environment variables
 
 | Varibale                              | Description             | Default                            |
-| :------------------------------------ | :---------------        | :--------------------------------- | :-----------: |
+| :------------------------------------ | :---------------        | :--------------------------------- |
 | PORT                     | Server port | 3000 |
 | BACKEND_URL                     | Backend url | http://localhost:8080 |
 
