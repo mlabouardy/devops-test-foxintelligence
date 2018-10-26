@@ -14,8 +14,8 @@ The technical test to apply for a *DevOps Engineer* role at *Foxintelligence* ht
 
 | Variable                              | Description             | Default                            |
 | ------------------------------------ | ---------------        | --------------------------------- |
-| AWS_ACCESS_KEY_ID                     | Ask recruiter for AWS credentials (IAM role or .aws/credentials file can be used instead) | |
-| AWS_ACCESS_SECRET_KEY | Ask recruiter for AWS credentials (IAM role or .aws/credentials file can be used instead) | |
+| AWS_ACCESS_KEY_ID                     | Ask recruiter for AWS credentials (IAM role or .aws/credentials file can be used also) | |
+| AWS_ACCESS_SECRET_KEY | Ask recruiter for AWS credentials (IAM role or .aws/credentials file can be used also) | |
 | AWS_REGION | AWS region | eu-central-1 |
 | S3_BUCKET | S3 bucket | devops-test-foxintelligence |
 | MONGO_URI | MongoDB URI | mongodb://localhost:27017 |
